@@ -1,0 +1,237 @@
+==============================>> 1 <<==============================
+RAW Data                        ->	[ 0x3 ,0x0 ,0x60 ,0x0 ,0xff ]
+uint8  Debug Module             ->	eMODULE_3
+uint8  Debug Value              ->	0(0x0)
+uint32 line Number              ->	96
+uint32 time Stamp               ->	0(0x0)
+uint8 teminator                 ->	255(0xff)
+==============================>> 2 <<==============================
+RAW Data                        ->	[ 0x1 ,0x0 ,0x1152 ,0x83 ,0xff ]
+uint8  Debug Module             ->	eMODULE_2
+uint8  Debug Value              ->	0(0x0)
+uint32 line Number              ->	4434
+uint32 time Stamp               ->	131(0x83)
+uint8 teminator                 ->	255(0xff)
+==============================>> 3 <<==============================
+RAW Data                        ->	[ 0x3 ,0x40 ,0xf2 ,0x236 ,0xff ]
+uint8  Debug Module             ->	eMODULE_3
+uint8  Debug Value              ->	64(0x40)
+uint32 line Number              ->	242
+uint32 time Stamp               ->	566(0x236)
+uint8 teminator                 ->	255(0xff)
+==============================>> 4 <<==============================
+RAW Data                        ->	[ 0x3 ,0x40 ,0x127 ,0x23f ,0xff ]
+uint8  Debug Module             ->	eMODULE_3
+uint8  Debug Value              ->	64(0x40)
+uint32 line Number              ->	295
+uint32 time Stamp               ->	575(0x23f)
+uint8 teminator                 ->	255(0xff)
+==============================>> 5 <<==============================
+RAW Data                        ->	[ 0x1 ,0x1 ,0x1152 ,0x247 ,0xff ]
+uint8  Debug Module             ->	eMODULE_2
+uint8  Debug Value              ->	1(0x1)
+uint32 line Number              ->	4434
+uint32 time Stamp               ->	583(0x247)
+uint8 teminator                 ->	255(0xff)
+==============================>> 6 <<==============================
+RAW Data                        ->	[ 0x4 ,0x3e ,0x1ed ,0x249 ,0xff ]
+uint8  Debug Module             ->	eMODULE_4
+uint8  Debug Value              ->	62(0x3e)
+uint32 line Number              ->	493
+uint32 time Stamp               ->	585(0x249)
+uint8 teminator                 ->	255(0xff)
+==============================>> 7 <<==============================
+RAW Data                        ->	[ 0x3 ,0x3e ,0xf2 ,0x24a ,0xff ]
+uint8  Debug Module             ->	eMODULE_3
+uint8  Debug Value              ->	62(0x3e)
+uint32 line Number              ->	242
+uint32 time Stamp               ->	586(0x24a)
+uint8 teminator                 ->	255(0xff)
+==============================>> 8 <<==============================
+RAW Data                        ->	[ 0x4 ,0x3e ,0x5cb ,0x24b ,0xff ]
+uint8  Debug Module             ->	eMODULE_4
+uint8  Debug Value              ->	62(0x3e)
+uint32 line Number              ->	1483
+uint32 time Stamp               ->	587(0x24b)
+uint8 teminator                 ->	255(0xff)
+==============================>> 9 <<============================== <<--- Last message in String Log
+RAW Data                        ->	[ 0x3 ,0x3e ,0x127 ,0x24b ,0xff ]
+uint8  Debug Module             ->	eMODULE_3
+uint8  Debug Value              ->	62(0x3e)
+uint32 line Number              ->	295
+uint32 time Stamp               ->	587(0x24b)
+uint8 teminator                 ->	255(0xff)
+==============================>> 10 <<============================== <<--- Release priority 
+RAW Data                        ->	[ 0x3 ,0x39 ,0xf2 ,0x25a ,0xff ]
+uint8  Debug Module             ->	eMODULE_3
+uint8  Debug Value              ->	57(0x39)
+uint32 line Number              ->	242
+uint32 time Stamp               ->	602(0x25a)
+uint8 teminator                 ->	255(0xff)
+==============================>> 11 <<============================== <<-- Request Main Audio Settings (priority 54)
+RAW Data                        ->	[ 0x1 ,0x0 ,0x1a82 ,0x25b ,0xff ]
+uint8  Debug Module             ->	eMODULE_2
+uint8  Debug Value              ->	0(0x0)
+uint32 line Number              ->	6786
+uint32 time Stamp               ->	603(0x25b)
+uint8 teminator                 ->	255(0xff)
+==============================>> 12 <<============================== <<-- Set Main Audio Sink  (priority 54)
+RAW Data                        ->	[ 0x4 ,0x36 ,0x175 ,0x25b ,0xff ]
+uint8  Debug Module             ->	eMODULE_4
+uint8  Debug Value              ->	54(0x36)
+uint32 line Number              ->	373
+uint32 time Stamp               ->	603(0x25b)
+uint8 teminator                 ->	255(0xff)
+==============================>> 13 <<============================== <<-- Priority Release for Beosonic Ctrl Load (priority 57)
+RAW Data                        ->	[ 0x3 ,0x39 ,0x127 ,0x25b ,0xff ]
+uint8  Debug Module             ->	eMODULE_3
+uint8  Debug Value              ->	57(0x39)
+uint32 line Number              ->	295
+uint32 time Stamp               ->	603(0x25b)
+uint8 teminator                 ->	255(0xff)
+==============================>> 14 <<============================== <<-- Priority Lock for Main Audio Settings (prio 54) IPM0x200
+RAW Data                        ->	[ 0x3 ,0x36 ,0xf2 ,0x25b ,0xff ]
+uint8  Debug Module             ->	eMODULE_3
+uint8  Debug Value              ->	54(0x36)
+uint32 line Number              ->	242
+uint32 time Stamp               ->	603(0x25b)
+uint8 teminator                 ->	255(0xff)
+==============================>> 15 <<============================== <<-- Request mute ApControl for Source EQ (prio 61) IPM0x200
+RAW Data                        ->	[ 0x1 ,0xa5 ,0x1c9a ,0x25b ,0xff ]
+uint8  Debug Module             ->	eMODULE_2
+uint8  Debug Value              ->	165(0xa5)
+uint32 line Number              ->	7322
+uint32 time Stamp               ->	603(0x25b)
+uint8 teminator                 ->	255(0xff)
+==============================>> 16 <<============================== <<-- Set Mute request from Source EQ priority 61 IPM0x200
+RAW Data                        ->	[ 0x4 ,0x3d ,0x1fa ,0x25b ,0xff ]
+uint8  Debug Module             ->	eMODULE_4
+uint8  Debug Value              ->	61(0x3d)
+uint32 line Number              ->	506
+uint32 time Stamp               ->	603(0x25b)
+uint8 teminator                 ->	255(0xff)
+==============================>> 17 <<============================== <<-- Response Main Audio Sink Setting priority 54 but the Prio 61 is already requested.
+RAW Data                        ->	[ 0x4 ,0x3d ,0x5d8 ,0x25d ,0xff ]
+uint8  Debug Module             ->	eMODULE_4
+uint8  Debug Value              ->	61(0x3d)
+uint32 line Number              ->	1496
+uint32 time Stamp               ->	605(0x25d)
+uint8 teminator                 ->	255(0xff)
+==============================>> 18 <<============================== <<-- Priority Release for Main Audio Settings (priority 54)
+RAW Data                        ->	[ 0x3 ,0x36 ,0x127 ,0x25d ,0xff ]
+uint8  Debug Module             ->	eMODULE_3
+uint8  Debug Value              ->	54(0x36)
+uint32 line Number              ->	295
+uint32 time Stamp               ->	605(0x25d)
+uint8 teminator                 ->	255(0xff)
+==============================>> 19 <<============================== <<-- Priority Lock for IPM0x200 Source EQ (priority 61)
+RAW Data                        ->	[ 0x3 ,0x3d ,0xf2 ,0x25d ,0xff ]
+uint8  Debug Module             ->	eMODULE_3
+uint8  Debug Value              ->	61(0x3d)
+uint32 line Number              ->	242
+uint32 time Stamp               ->	605(0x25d)
+uint8 teminator                 ->	255(0xff)
+==============================>> 20 <<============================== <<-- Response for MuteUnmute priority 61 IPM0x200
+RAW Data                        ->	[ 0x4 ,0x3d ,0x5cb ,0x25f ,0xff ]
+uint8  Debug Module             ->	eMODULE_4
+uint8  Debug Value              ->	61(0x3d)
+uint32 line Number              ->	1483
+uint32 time Stamp               ->	607(0x25f)
+uint8 teminator                 ->	255(0xff)
+==============================>> 21 <<============================== <<-- Priority release for IPM0x200 Source EQ (priority 61)
+RAW Data                        ->	[ 0x3 ,0x3d ,0x127 ,0x25f ,0xff ]
+uint8  Debug Module             ->	eMODULE_3
+uint8  Debug Value              ->	61(0x3d)
+uint32 line Number              ->	295
+uint32 time Stamp               ->	607(0x25f)
+uint8 teminator                 ->	255(0xff)
+==============================>> 22 <<============================== <<-- Priority Lock for IPM0x2004 Rqst Fast Src Change EQ (Priority 60)
+RAW Data                        ->	[ 0x3 ,0x3c ,0xf2 ,0x262 ,0xff ]
+uint8  Debug Module             ->	eMODULE_3
+uint8  Debug Value              ->	60(0x3c)
+uint32 line Number              ->	242
+uint32 time Stamp               ->	610(0x262)
+uint8 teminator                 ->	255(0xff)
+==============================>> 23 <<==============================
+RAW Data                        ->	[ 0x3 ,0x3c ,0x127 ,0x263 ,0xff ]
+uint8  Debug Module             ->	eMODULE_3
+uint8  Debug Value              ->	60(0x3c)
+uint32 line Number              ->	295
+uint32 time Stamp               ->	611(0x263)
+uint8 teminator                 ->	255(0xff)
+==============================>> 24 <<==============================
+RAW Data                        ->	[ 0x4 ,0x3d ,0x1fa ,0x263 ,0xff ]
+uint8  Debug Module             ->	eMODULE_4
+uint8  Debug Value              ->	61(0x3d)
+uint32 line Number              ->	506
+uint32 time Stamp               ->	611(0x263)
+uint8 teminator                 ->	255(0xff)
+==============================>> 25 <<==============================
+RAW Data                        ->	[ 0x3 ,0x3d ,0xf2 ,0x264 ,0xff ]
+uint8  Debug Module             ->	eMODULE_3
+uint8  Debug Value              ->	61(0x3d)
+uint32 line Number              ->	242
+uint32 time Stamp               ->	612(0x264)
+uint8 teminator                 ->	255(0xff)
+==============================>> 26 <<==============================
+RAW Data                        ->	[ 0x4 ,0x3d ,0x5cb ,0x265 ,0xff ]
+uint8  Debug Module             ->	eMODULE_4
+uint8  Debug Value              ->	61(0x3d)
+uint32 line Number              ->	1483
+uint32 time Stamp               ->	613(0x265)
+uint8 teminator                 ->	255(0xff)
+==============================>> 27 <<==============================
+RAW Data                        ->	[ 0x3 ,0x3d ,0x127 ,0x265 ,0xff ]
+uint8  Debug Module             ->	eMODULE_3
+uint8  Debug Value              ->	61(0x3d)
+uint32 line Number              ->	295
+uint32 time Stamp               ->	613(0x265)
+uint8 teminator                 ->	255(0xff)
+==============================>> 28 <<==============================
+RAW Data                        ->	[ 0x4 ,0x37 ,0x1b0 ,0x28f ,0xff ]
+uint8  Debug Module             ->	eMODULE_4
+uint8  Debug Value              ->	55(0x37)
+uint32 line Number              ->	432
+uint32 time Stamp               ->	655(0x28f)
+uint8 teminator                 ->	255(0xff)
+==============================>> 29 <<==============================
+RAW Data                        ->	[ 0x3 ,0x37 ,0xf2 ,0x290 ,0xff ]
+uint8  Debug Module             ->	eMODULE_3
+uint8  Debug Value              ->	55(0x37)
+uint32 line Number              ->	242
+uint32 time Stamp               ->	656(0x290)
+uint8 teminator                 ->	255(0xff)
+==============================>> 30 <<==============================
+RAW Data                        ->	[ 0x4 ,0x37 ,0x5cb ,0x292 ,0xff ]
+uint8  Debug Module             ->	eMODULE_4
+uint8  Debug Value              ->	55(0x37)
+uint32 line Number              ->	1483
+uint32 time Stamp               ->	658(0x292)
+uint8 teminator                 ->	255(0xff)
+==============================>> 31 <<==============================
+RAW Data                        ->	[ 0x3 ,0x37 ,0x127 ,0x292 ,0xff ]
+uint8  Debug Module             ->	eMODULE_3
+uint8  Debug Value              ->	55(0x37)
+uint32 line Number              ->	295
+uint32 time Stamp               ->	658(0x292)
+uint8 teminator                 ->	255(0xff)
+==============================>> 32 <<==============================
+RAW Data                        ->	[ 0x0 ,0x0 ,0x0 ,0x0 ,0x0 ]
+uint8  Debug Module             ->	eMODULE_1
+uint8  Debug Value              ->	0(0x0)
+uint32 line Number              ->	0
+uint32 time Stamp               ->	0(0x0)
+uint8 teminator                 ->	0(0x0)
+==============================>> 33 <<==============================
+RAW Data                        ->	[ 0x0 ,0x0 ,0x0 ,0x0 ,0x0 ]
+uint8  Debug Module             ->	eMODULE_1
+uint8  Debug Value              ->	0(0x0)
+uint32 line Number              ->	0
+uint32 time Stamp               ->	0(0x0)
+uint8 teminator                 ->	0(0x0)
+==============================>> 34 <<==============================
+No enough data to be interpreted -> Remaining: 5
+b'\x00\x00\x00\x00\x00'
+==============================>> 35 <<==============================
+No enough data to be interpreted -> Remaining: 0
+b''
