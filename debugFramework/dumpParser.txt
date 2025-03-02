@@ -54,98 +54,98 @@ uint8  Debug Value              ->	62(0x3e)
 uint32 line Number              ->	1483
 uint32 time Stamp               ->	587(0x24b)
 uint8 teminator                 ->	255(0xff)
-==============================>> 9 <<============================== <<--- Last message in String Log
+==============================>> 9 <<============================== 
 RAW Data                        ->	[ 0x3 ,0x3e ,0x127 ,0x24b ,0xff ]
 uint8  Debug Module             ->	eMODULE_3
 uint8  Debug Value              ->	62(0x3e)
 uint32 line Number              ->	295
 uint32 time Stamp               ->	587(0x24b)
 uint8 teminator                 ->	255(0xff)
-==============================>> 10 <<============================== <<--- Release priority 
+==============================>> 10 <<==============================  
 RAW Data                        ->	[ 0x3 ,0x39 ,0xf2 ,0x25a ,0xff ]
 uint8  Debug Module             ->	eMODULE_3
 uint8  Debug Value              ->	57(0x39)
 uint32 line Number              ->	242
 uint32 time Stamp               ->	602(0x25a)
 uint8 teminator                 ->	255(0xff)
-==============================>> 11 <<============================== <<-- Request Main Audio Settings (priority 54)
+==============================>> 11 <<==============================
 RAW Data                        ->	[ 0x1 ,0x0 ,0x1a82 ,0x25b ,0xff ]
 uint8  Debug Module             ->	eMODULE_2
 uint8  Debug Value              ->	0(0x0)
 uint32 line Number              ->	6786
 uint32 time Stamp               ->	603(0x25b)
 uint8 teminator                 ->	255(0xff)
-==============================>> 12 <<============================== <<-- Set Main Audio Sink  (priority 54)
+==============================>> 12 <<============================== 
 RAW Data                        ->	[ 0x4 ,0x36 ,0x175 ,0x25b ,0xff ]
 uint8  Debug Module             ->	eMODULE_4
 uint8  Debug Value              ->	54(0x36)
 uint32 line Number              ->	373
 uint32 time Stamp               ->	603(0x25b)
 uint8 teminator                 ->	255(0xff)
-==============================>> 13 <<============================== <<-- Priority Release for Beosonic Ctrl Load (priority 57)
+==============================>> 13 <<============================== 
 RAW Data                        ->	[ 0x3 ,0x39 ,0x127 ,0x25b ,0xff ]
 uint8  Debug Module             ->	eMODULE_3
 uint8  Debug Value              ->	57(0x39)
 uint32 line Number              ->	295
 uint32 time Stamp               ->	603(0x25b)
 uint8 teminator                 ->	255(0xff)
-==============================>> 14 <<============================== <<-- Priority Lock for Main Audio Settings (prio 54) IPM0x200
+==============================>> 14 <<============================== 
 RAW Data                        ->	[ 0x3 ,0x36 ,0xf2 ,0x25b ,0xff ]
 uint8  Debug Module             ->	eMODULE_3
 uint8  Debug Value              ->	54(0x36)
 uint32 line Number              ->	242
 uint32 time Stamp               ->	603(0x25b)
 uint8 teminator                 ->	255(0xff)
-==============================>> 15 <<============================== <<-- Request mute ApControl for Source EQ (prio 61) IPM0x200
+==============================>> 15 <<============================== 
 RAW Data                        ->	[ 0x1 ,0xa5 ,0x1c9a ,0x25b ,0xff ]
 uint8  Debug Module             ->	eMODULE_2
 uint8  Debug Value              ->	165(0xa5)
 uint32 line Number              ->	7322
 uint32 time Stamp               ->	603(0x25b)
 uint8 teminator                 ->	255(0xff)
-==============================>> 16 <<============================== <<-- Set Mute request from Source EQ priority 61 IPM0x200
+==============================>> 16 <<============================== 
 RAW Data                        ->	[ 0x4 ,0x3d ,0x1fa ,0x25b ,0xff ]
 uint8  Debug Module             ->	eMODULE_4
 uint8  Debug Value              ->	61(0x3d)
 uint32 line Number              ->	506
 uint32 time Stamp               ->	603(0x25b)
 uint8 teminator                 ->	255(0xff)
-==============================>> 17 <<============================== <<-- Response Main Audio Sink Setting priority 54 but the Prio 61 is already requested.
+==============================>> 17 <<============================== 
 RAW Data                        ->	[ 0x4 ,0x3d ,0x5d8 ,0x25d ,0xff ]
 uint8  Debug Module             ->	eMODULE_4
 uint8  Debug Value              ->	61(0x3d)
 uint32 line Number              ->	1496
 uint32 time Stamp               ->	605(0x25d)
 uint8 teminator                 ->	255(0xff)
-==============================>> 18 <<============================== <<-- Priority Release for Main Audio Settings (priority 54)
+==============================>> 18 <<==============================
 RAW Data                        ->	[ 0x3 ,0x36 ,0x127 ,0x25d ,0xff ]
 uint8  Debug Module             ->	eMODULE_3
 uint8  Debug Value              ->	54(0x36)
 uint32 line Number              ->	295
 uint32 time Stamp               ->	605(0x25d)
 uint8 teminator                 ->	255(0xff)
-==============================>> 19 <<============================== <<-- Priority Lock for IPM0x200 Source EQ (priority 61)
+==============================>> 19 <<==============================
 RAW Data                        ->	[ 0x3 ,0x3d ,0xf2 ,0x25d ,0xff ]
 uint8  Debug Module             ->	eMODULE_3
 uint8  Debug Value              ->	61(0x3d)
 uint32 line Number              ->	242
 uint32 time Stamp               ->	605(0x25d)
 uint8 teminator                 ->	255(0xff)
-==============================>> 20 <<============================== <<-- Response for MuteUnmute priority 61 IPM0x200
+==============================>> 20 <<============================== 
 RAW Data                        ->	[ 0x4 ,0x3d ,0x5cb ,0x25f ,0xff ]
 uint8  Debug Module             ->	eMODULE_4
 uint8  Debug Value              ->	61(0x3d)
 uint32 line Number              ->	1483
 uint32 time Stamp               ->	607(0x25f)
 uint8 teminator                 ->	255(0xff)
-==============================>> 21 <<============================== <<-- Priority release for IPM0x200 Source EQ (priority 61)
+==============================>> 21 <<============================== 
 RAW Data                        ->	[ 0x3 ,0x3d ,0x127 ,0x25f ,0xff ]
 uint8  Debug Module             ->	eMODULE_3
 uint8  Debug Value              ->	61(0x3d)
 uint32 line Number              ->	295
 uint32 time Stamp               ->	607(0x25f)
 uint8 teminator                 ->	255(0xff)
-==============================>> 22 <<============================== <<-- Priority Lock for IPM0x2004 Rqst Fast Src Change EQ (Priority 60)
+==============================>> 22 <<==============================
 RAW Data                        ->	[ 0x3 ,0x3c ,0xf2 ,0x262 ,0xff ]
 uint8  Debug Module             ->	eMODULE_3
 uint8  Debug Value              ->	60(0x3c)
